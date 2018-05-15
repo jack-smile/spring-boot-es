@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  data:
+    elasticsearch:
+      cluster-name: es_jack_cluster
+      cluster-nodes: 47.98.180.96:9301
+
